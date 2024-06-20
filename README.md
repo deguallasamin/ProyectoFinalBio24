@@ -1,6 +1,6 @@
 1. Que tipo de datos?
-
-2. Enque formato estan los datos?
-
-3. Que hara con ellos?
-
+Genomas de 65 arañas.
+3. En que formato estan los datos?
+Fasta
+4. Que hara con ellos?
+Una filogenia 
