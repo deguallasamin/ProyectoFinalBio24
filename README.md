@@ -1,5 +1,5 @@
 1. Que tipo de datos?
-Genomas de 65 arañas.
+Secuencias proteicas gen COX1
 3. En que formato estan los datos?
 Fasta
 4. Que hara con ellos?
