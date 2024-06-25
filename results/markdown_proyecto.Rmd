@@ -19,9 +19,19 @@ Arbol Filogenético con base en el gen COX1 de la familia Salticidae del orden A
 ```
 Mi proyecto consistio en realizar una filogenia de nueves especies de la familia Salticidae (Araneae) con respecto al gen COX1. Además, use como grupo externo a una especie de la familia Thomisidae (Araneae), disponibles en NCBI.
 ```{r}
-##**Foto de la filogenia**
+##**Foto**
 ```
-![Foto Filogenia](/c/Users/home/Desktop/ImagenesBio24/Salticidae_arbol.jpeg)
+
+![Riqueza de arañas](https://upload.wikimedia.org/wikipedia/commons/f/f9/Spiders_Diversity.jpg)
+
+```{r}
+##**Video de generalidades**
+```
+
+<iframe src="https://www.youtube.com/embed/nF80httdhJw" data-external="1">
+
+</iframe>
+
 ```{r}
 #**Autora**
 ```
